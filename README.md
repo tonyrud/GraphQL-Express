@@ -14,7 +14,7 @@
  }
 ```
 
-# Named Query
+# Named Query with query fragment usage
 ```
 query findCompany {
   apple: company(id: "1") {
